@@ -6,6 +6,6 @@ Note: please replace your github personal access token from 'PERSONAL_ACESS_TOKE
 
 ## Steps to get you PERSONAL_ACESS_TOKEN
 - Go to your account settings
-- naviagate to developer settings in the bottom left menu
+- navigate to developer settings in the bottom left menu
 - select personal acess token from the left menu 
 - generate your perosnal access token 
