@@ -8,7 +8,7 @@ while searchQuery.chomp.empty?
 end
 errorMessage=''
   begin
-    client = Octokit::Client.new(:access_token => 'your access token')
+    client = Octokit::Client.new(:access_token => 'PERSONAL_ACCESS_TOKEN')
     repoInfo=client.get("/search/repositories?q=#{searchQuery}&sort=stars&order=desc&per_page=10")
    if client.last_response.status == 503
     errorMessage='Service Unavailable'
