@@ -1,6 +1,6 @@
 # ruby-script
 
-Script to fetch top 10 repositories based on a user searched keywork
+Script to fetch top 10 repositories based on a user searched keyword
 
 Note: please replace your github personal access token from 'PERSONAL_ACESS_TOKEN' 
 
